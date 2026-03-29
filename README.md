@@ -1,11 +1,14 @@
 # vigenere
 
-Vigenere cipher encrypt/decrypt.
-
-Zero dependencies. Python 3.8+.
+Vigenere cipher encoder/decoder
 
 ## Usage
 
 ```bash
 python3 vigenere.py --help
 ```
+
+## Features
+
+- Zero dependencies (Python 3.8+)
+- Single file implementation
